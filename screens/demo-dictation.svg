@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300">
+<rect x="1" y="1" width="818" height="298" rx="18" fill="#FFFFFF" stroke="#E3E5EC"/>
+<circle cx="26" cy="26" r="6.5" fill="#FF5F57"/><circle cx="46" cy="26" r="6.5" fill="#FEBC2E"/><circle cx="66" cy="26" r="6.5" fill="#28C840"/>
+<text x="410.0" y="31" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#8A8F9C">Сообщения</text>
+<line x1="1" y1="50" x2="819" y2="50" stroke="#EEF0F4"/>
+<g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0200;0.0350;0.4200;0.4350;1.0000" dur="10.0s" repeatCount="indefinite"/>
+<rect x="48" y="82" width="300" height="46" rx="13" fill="#2A2A2D"/>
+<circle cx="74" cy="105" r="6" fill="#FF453A"><animate attributeName="opacity" values="1;0.35;1" dur="1.2s" repeatCount="indefinite"/></circle>
+<rect x="96" y="102.0" width="3" height="6" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="6;10;6;6;6" dur="0.90s" repeatCount="indefinite"/>
+<animate attributeName="y" values="102.0;100.0;102.0;102.0;102.0" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="103" y="100.5" width="3" height="9" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="9;19;7;15;9" dur="1.03s" repeatCount="indefinite"/>
+<animate attributeName="y" values="100.5;95.5;101.5;97.5;100.5" dur="1.03s" repeatCount="indefinite"/></rect>
+<rect x="110" y="99.0" width="3" height="12" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="12;28;9;24;12" dur="1.16s" repeatCount="indefinite"/>
+<animate attributeName="y" values="99.0;91.0;100.5;93.0;99.0" dur="1.16s" repeatCount="indefinite"/></rect>
+<rect x="117" y="97.5" width="3" height="15" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="15;15;10;11;15" dur="1.29s" repeatCount="indefinite"/>
+<animate attributeName="y" values="97.5;97.5;100.0;99.5;97.5" dur="1.29s" repeatCount="indefinite"/></rect>
+<rect x="124" y="96.0" width="3" height="18" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="18;24;12;20;18" dur="1.42s" repeatCount="indefinite"/>
+<animate attributeName="y" values="96.0;93.0;99.0;95.0;96.0" dur="1.42s" repeatCount="indefinite"/></rect>
+<rect x="131" y="94.5" width="3" height="21" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="21;11;13;7;21" dur="0.90s" repeatCount="indefinite"/>
+<animate attributeName="y" values="94.5;99.5;98.5;101.5;94.5" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="138" y="101.5" width="3" height="7" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="7;20;6;16;7" dur="1.03s" repeatCount="indefinite"/>
+<animate attributeName="y" values="101.5;95.0;102.0;97.0;101.5" dur="1.03s" repeatCount="indefinite"/></rect>
+<rect x="145" y="100.0" width="3" height="10" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="10;29;8;25;10" dur="1.16s" repeatCount="indefinite"/>
+<animate attributeName="y" values="100.0;90.5;101.0;92.5;100.0" dur="1.16s" repeatCount="indefinite"/></rect>
+<rect x="152" y="98.5" width="3" height="13" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="13;16;9;12;13" dur="1.29s" repeatCount="indefinite"/>
+<animate attributeName="y" values="98.5;97.0;100.5;99.0;98.5" dur="1.29s" repeatCount="indefinite"/></rect>
+<rect x="159" y="97.0" width="3" height="16" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="16;25;11;21;16" dur="1.42s" repeatCount="indefinite"/>
+<animate attributeName="y" values="97.0;92.5;99.5;94.5;97.0" dur="1.42s" repeatCount="indefinite"/></rect>
+<rect x="166" y="95.5" width="3" height="19" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="19;12;12;8;19" dur="0.90s" repeatCount="indefinite"/>
+<animate attributeName="y" values="95.5;99.0;99.0;101.0;95.5" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="173" y="94.0" width="3" height="22" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="22;21;14;17;22" dur="1.03s" repeatCount="indefinite"/>
+<animate attributeName="y" values="94.0;94.5;98.0;96.5;94.0" dur="1.03s" repeatCount="indefinite"/></rect>
+<rect x="180" y="101.0" width="3" height="8" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="8;30;7;26;8" dur="1.16s" repeatCount="indefinite"/>
+<animate attributeName="y" values="101.0;90.0;101.5;92.0;101.0" dur="1.16s" repeatCount="indefinite"/></rect>
+<rect x="187" y="99.5" width="3" height="11" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="11;17;8;13;11" dur="1.29s" repeatCount="indefinite"/>
+<animate attributeName="y" values="99.5;96.5;101.0;98.5;99.5" dur="1.29s" repeatCount="indefinite"/></rect>
+<rect x="194" y="98.0" width="3" height="14" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="14;26;10;22;14" dur="1.42s" repeatCount="indefinite"/>
+<animate attributeName="y" values="98.0;92.0;100.0;94.0;98.0" dur="1.42s" repeatCount="indefinite"/></rect>
+<rect x="201" y="96.5" width="3" height="17" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="17;13;11;9;17" dur="0.90s" repeatCount="indefinite"/>
+<animate attributeName="y" values="96.5;98.5;99.5;100.5;96.5" dur="0.90s" repeatCount="indefinite"/></rect>
+<rect x="208" y="95.0" width="3" height="20" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="20;22;13;18;20" dur="1.03s" repeatCount="indefinite"/>
+<animate attributeName="y" values="95.0;94.0;98.5;96.0;95.0" dur="1.03s" repeatCount="indefinite"/></rect>
+<rect x="215" y="102.0" width="3" height="6" rx="1.5" fill="#4B5EF0">
+<animate attributeName="height" values="6;31;6;27;6" dur="1.16s" repeatCount="indefinite"/>
+<animate attributeName="y" values="102.0;89.5;102.0;91.5;102.0" dur="1.16s" repeatCount="indefinite"/></rect>
+<text x="234" y="111" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#B9BCC6">0:0<tspan>3<animate attributeName="opacity" values="1;1" keyTimes="0.0000;1.0000" dur="10.0s" repeatCount="indefinite"/></tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0400;0.0550;0.4200;0.4350;1.0000" dur="10.0s" repeatCount="indefinite"/>
+<rect x="366" y="90" width="207.2" height="30" rx="15" fill="#1D2130"/>
+<text x="469.6" y="110" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">правый ⌥ — и говорите</text></g>
+<rect x="48" y="160" width="724" height="58" rx="12" fill="#F4F5F8" stroke="#E3E5EC"/>
+<text x="66" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#1D2130" opacity="0">Созвонимся завтра в десять, пришлю ссылку.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4400;0.4700;0.9400;0.9600;1.0000" dur="10.0s" repeatCount="indefinite"/></text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4700;0.4850;0.9000;0.9150;1.0000" dur="10.0s" repeatCount="indefinite"/>
+<rect x="48" y="236" width="363.59999999999997" height="30" rx="15" fill="#4B5EF0"/>
+<text x="229.79999999999998" y="256" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#FFFFFF">распознано на этом Mac · без интернета</text></g>
+<text x="48" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#8A8F9C" opacity="0">Голос не уходит в облако: модель распознавания работает на вашем Mac.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0200;0.0350;0.4200;0.4350;1.0000" dur="10.0s" repeatCount="indefinite"/></text>
+</svg>

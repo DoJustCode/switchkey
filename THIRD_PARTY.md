@@ -23,9 +23,9 @@ Switchkey распространяется под лицензией MIT (см. 
 
 ## Языковые данные RU/EN
 
-`trigrams_ru.json`, `trigrams_en.json`, `words_ru.json`,
-`words_en.json` — из проекта keyswitcher (<https://github.com/graninilya/keyswitcher>),
-лицензия MIT, Copyright (c) 2026 Ilya Granin.
+`trigrams_ru.json`, `trigrams_en.json`, `words_ru.json`, `words_en.json` — лицензия MIT.
+Текст лицензии с уведомлением об авторских правах лежит внутри приложения:
+`Switchkey.app/Contents/Resources/Licenses/LanguageData-LICENSE.txt`.
 
 ## Системные фреймворки Apple
 
