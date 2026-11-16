@@ -27,7 +27,7 @@
 указана на странице выпуска.
 
 ```bash
-shasum -a 256 ~/Downloads/Switchkey-1.1.0.dmg
+shasum -a 256 ~/Downloads/Switchkey-1.1.1.dmg
 ```
 
 ## Первый запуск
